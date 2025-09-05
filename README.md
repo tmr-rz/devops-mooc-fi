@@ -4,7 +4,7 @@ This repository contains my solutions for the DevOps with Kubernetes course.
 
 ## Exercises
 
-- [1.01 - Log Output Application](https://github.com/your-username/devops-mooc-fi/tree/1.01/log_output)
+- [1.01 - Log Output Application](https://github.com/tmr-rz/devops-mooc-fi/tree/1.01/log_output)
 
 ## Applications
 
