@@ -6,7 +6,7 @@ This repository contains my solutions for the DevOps with Kubernetes course.
 
 ### Chapter 1
 
-- [1.1.](https://github.com/tmr-rz/devops-mooc-fi/tree/1.01/log_output)
+- [1.1.](https://github.com/tmr-rz/devops-mooc-fi/tree/1.1/log_output)
 
 ## Applications
 
